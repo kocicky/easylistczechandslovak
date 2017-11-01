@@ -919,7 +919,6 @@ hybrid.cz##.TopFullBanner
 hyperinzerce.cz###banners
 hyperinzerce.cz###ilayerr
 hyperinzerce.cz###skyscraper
-idnes.cz##A[href*="bbelements"]
 idnes.cz##[id^='r']
 idnes.cz##[id^='bmone2n']
 idnes.cz##.ahead
